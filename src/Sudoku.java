@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class sudoku {
+public class Sudoku {
 
 	static int x=0;//totalchess->chess时totalchess行数计数
 	static int y=0;//chess->totalchess时totalchess行数计数
