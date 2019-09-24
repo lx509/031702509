@@ -74,7 +74,7 @@ public class Sudoku {
 			
 			N--;  
 
-			new sudoku().solveSudoku(chess,m,totalchess);
+			new Sudoku().solveSudoku(chess,m,totalchess);
 			
 		}
 		
